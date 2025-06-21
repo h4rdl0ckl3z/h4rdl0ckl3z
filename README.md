@@ -1,20 +1,21 @@
 # Hi, I'm h4rdl0ckl3z 👋
 
-I'm a passionate developer focused on creating efficient and innovative software solutions. I enjoy working on a variety of projects ranging from web development to automation and open source contributions.
+I'm a **developer** and **reverse engineer** passionate about exploring how software works under the hood and creating efficient, innovative solutions. I enjoy working on diverse projects including web development, automation and reverse engineering challenges.
 
 ---
 
 ## About Me
 
-- 🔭 Currently working on personal and open source projects.
-- 🌱 Continuously learning new technologies and best practices.
-- 💬 Ask me about JavaScript, Node.js, React, or anything tech-related.
+- 🔭 Currently working on personal projects and open source contributions.
+- 🛠 Skilled in software development and reverse engineering techniques.
+- 🌱 Always learning new technologies, tools, and security concepts.
+- 💬 Ask me about JavaScript, Node.js, reverse engineering, or anything tech-related.
 - 📫 How to reach me: [GitHub Issues](https://github.com/h4rdl0ckl3z) or connect via my social media.
-- ⚡ Fun fact: I love exploring new frameworks and coding challenges.
+- ⚡ Fun fact: I love digging deep into software internals and solving puzzles.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### [e-GP_Module](https://github.com/h4rdl0ckl3z/e-GP_Module)
 An e-government procurement module to streamline workflows.
