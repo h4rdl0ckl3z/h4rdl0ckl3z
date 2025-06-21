@@ -1,6 +1,6 @@
 # Hi, I'm h4rdl0ckl3z 👋
 
-I'm a **developer** and **reverse engineer** passionate about exploring how software works under the hood and creating efficient, innovative solutions. I enjoy working on diverse projects including web development, automation and reverse engineering challenges.
+I'm a **developer** and **reverse engineer** passionate about exploring how software works under the hood and creating efficient, innovative solutions. I enjoy working on diverse projects, including web development, automation and reverse engineering challenges.
 
 ---
 
