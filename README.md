@@ -11,7 +11,7 @@ I'm a passionate developer from Thailand 🇹🇭 focusing on JavaScript, TypeSc
 
 ## 📌 Featured Projects
 
-- [equipment](https://github.com/h4rdl0ckl3z/equipment) – Tools and utilities in PHP.
+- [equipment](https://github.com/h4rdl0ckl3z/equipment) – Tools and utilities in JavaScript.
 - [e-GP_Module](https://github.com/h4rdl0ckl3z/e-GP_Module) – Module for Thai e-Government Procurement system.
 - [portfolio](https://github.com/h4rdl0ckl3z/portfolio) – My personal portfolio site built with TypeScript.
 - [Discord-Bot](https://github.com/h4rdl0ckl3z/Discord-Bot) – Customizable bot for Discord servers.
