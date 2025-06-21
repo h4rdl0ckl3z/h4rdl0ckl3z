@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm h4rdl0ckl3z
 
-<!--
-**h4rdl0ckl3z/h4rdl0ckl3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from Thailand 🇹🇭 focusing on JavaScript, TypeScript, and open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently improving skills in modern web development frameworks and tools.
+- 🌱 Learning more about scalable backend and frontend technologies.
+- 💬 Ask me about Discord bots, e-Government modules, or general web development.
+- 📫 How to reach me: [your-email@example.com]
+
+## 📌 Featured Projects
+
+- [equipment](https://github.com/h4rdl0ckl3z/equipment) – Tools and utilities in PHP.
+- [e-GP_Module](https://github.com/h4rdl0ckl3z/e-GP_Module) – Module for Thai e-Government Procurement system.
+- [portfolio](https://github.com/h4rdl0ckl3z/portfolio) – My personal portfolio site built with TypeScript.
+- [Discord-Bot](https://github.com/h4rdl0ckl3z/Discord-Bot) – Customizable bot for Discord servers.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&count_private=true&theme=radical)
+
+---
