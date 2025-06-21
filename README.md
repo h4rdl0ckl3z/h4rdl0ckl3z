@@ -7,7 +7,6 @@ I'm a passionate developer from Thailand 🇹🇭 focusing on JavaScript, TypeSc
 - 🔭 Currently improving skills in modern web development frameworks and tools.
 - 🌱 Learning more about scalable backend and frontend technologies.
 - 💬 Ask me about Discord bots, e-Government modules, or general web development.
-- 📫 How to reach me: [your-email@example.com]
 
 ## 📌 Featured Projects
 
