@@ -11,7 +11,6 @@ I build tools, automate workflows, and dive deep into software internals to solv
 - 🛠 Skilled in software development & reverse engineering  
 - 🌱 Always learning new technologies and security concepts  
 - 💬 Ask me about JavaScript, Node.js, reverse engineering, or automation  
-- 📫 Reach me via GitHub Issues or social links below  
 - ⚡ Fun fact: I enjoy taking software apart and putting it back together—better  
 
 ---
@@ -34,17 +33,14 @@ Personal portfolio site & project showcase
 
 ## 📊 GitHub Stats
 
-### 🔥 Activity Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
+### 🔥 GitHub Stats (anuraghazra)
+![h4rdl0ckl3z's Stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 📘 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&theme=tokyonight&hide_border=true)
 
-### ⚡ Streak Stats
-![Streak](https://streak-stats.demolab.com?user=h4rdl0ckl3z&theme=tokyonight&hide_border=true)
-
-### 🧩 Contribution Graph (Snake Animation)
-![Grid Snake](https://github.com/h4rdl0ckl3z/h4rdl0ckl3z/blob/output/github-contribution-grid-snake-dark.svg)
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=h4rdl0ckl3z&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
 
@@ -52,4 +48,3 @@ Personal portfolio site & project showcase
 
 - 🎥 **YouTube:** https://www.youtube.com/channel/UCDVWbPPx5-WJtcn8YZ_k0Bg  
 - 💻 **GitHub:** https://github.com/h4rdl0ckl3z
-
