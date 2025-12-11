@@ -1,44 +1,55 @@
 # Hi, I'm h4rdl0ckl3z 👋
 
-I'm a **developer** and **reverse engineer** passionate about exploring how software works under the hood and creating efficient, innovative solutions. I enjoy working on diverse projects, including web development, automation and reverse engineering challenges.
+I'm a **developer** and **reverse engineer** who loves exploring how software works under the hood.  
+I build tools, automate workflows, and dive deep into software internals to solve complex challenges.
 
 ---
 
-## About Me
+## 🧩 About Me
 
-- 🔭 Currently working on personal projects and open source contributions.
-- 🛠 Skilled in software development and reverse engineering techniques.
-- 🌱 Always learning new technologies, tools, and security concepts.
-- 💬 Ask me about JavaScript, Node.js, reverse engineering, or anything tech-related.
-- 📫 How to reach me: [GitHub Issues](https://github.com/h4rdl0ckl3z) or connect via my social media.
-- ⚡ Fun fact: I love digging deep into software internals and solving puzzles.
+- 🔭 Currently working on personal tools and open-source contributions  
+- 🛠 Skilled in software development & reverse engineering  
+- 🌱 Always learning new technologies and security concepts  
+- 💬 Ask me about JavaScript, Node.js, reverse engineering, or automation  
+- 📫 Reach me via GitHub Issues or social links below  
+- ⚡ Fun fact: I enjoy taking software apart and putting it back together—better  
 
 ---
 
 ## 🚀 Featured Projects
 
-### [e-GP_Module](https://github.com/h4rdl0ckl3z/e-GP_Module)
-An e-government procurement module to streamline workflows.
+### 🔹 e-GP_Module  
+Streamlined e-government procurement module  
+👉 https://github.com/h4rdl0ckl3z/e-GP_Module
 
-### [Discord-Bot](https://github.com/h4rdl0ckl3z/Discord-Bot)
-A multi-functional Discord bot built with JavaScript.
+### 🔹 Discord-Bot  
+Feature-rich Discord bot built with JavaScript  
+👉 https://github.com/h4rdl0ckl3z/Discord-Bot
 
-### [portfolio](https://github.com/h4rdl0ckl3z/portfolio)
-My personal portfolio site showcasing my projects and skills.
+### 🔹 Portfolio  
+Personal portfolio site & project showcase  
+👉 https://github.com/h4rdl0ckl3z/portfolio
 
 ---
 
 ## 📊 GitHub Stats
 
-![h4rdl0ckl3z's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&theme=tokyonight)
+### 🔥 Activity Overview
+![Stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&theme=tokyonight)
+### 📘 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&hide_border=true&theme=tokyonight)
+
+### ⚡ Streak Stats
+![Streak](https://streak-stats.demolab.com?user=h4rdl0ckl3z&theme=tokyonight&hide_border=true)
+
+### 🧩 Contribution Graph (Snake Animation)
+![Grid Snake](https://github.com/h4rdl0ckl3z/h4rdl0ckl3z/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect With Me
 
-- [YouTube Channel](https://www.youtube.com/channel/UCDVWbPPx5-WJtcn8YZ_k0Bg)
-- [GitHub](https://github.com/h4rdl0ckl3z)
+- 🎥 **YouTube:** https://www.youtube.com/channel/UCDVWbPPx5-WJtcn8YZ_k0Bg  
+- 💻 **GitHub:** https://github.com/h4rdl0ckl3z
 
----
