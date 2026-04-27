@@ -1,44 +1,108 @@
-# Hi, I'm h4rdl0ckl3z 👋
+# 👋 Hi, I'm Avatart0Dev (h4rdl0ckl3z)
 
-I'm a developer and reverse engineer who loves exploring how software works under the hood.
-I build tools, automate workflows, and dive deep into software internals to solve complex challenges.
+> I analyze how systems really work — then build solutions on top of that understanding.
 
-## 🧩 About Me
-
-- 🔭 **Currently working on**: personal tools and open-source contributions
-- 🛠 **Skills**: Software development & reverse engineering
-- 🌱 **Always learning**: New technologies and security concepts
-- 💬 **Ask me about**: JavaScript, Node.js, reverse engineering, or automation
-- ⚡ **Fun fact**: I enjoy taking software apart and putting it back together—better
-
-## 🚀 Featured Projects
-
-### 🔹 e-GP_Module
-Streamlined e-government procurement module for Thai e-Government Procurement systems.
-👉 [View Project](https://github.com/h4rdl0ckl3z/e-GP_Module)
-
-### 🔹 Discord-Bot
-Feature-rich Discord bot built with JavaScript offering various utilities and automation features.
-👉 [View Project](https://github.com/h4rdl0ckl3z/Discord-Bot)
-
-### 🔹 equipment
-JavaScript project (currently pinned on your GitHub profile).
-👉 [View Project](https://github.com/h4rdl0ckl3z/equipment)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=h4rdl0ckl3z&theme=radical)
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/h4rdl0ckl3z)
-
-*Feel free to explore my repositories and reach out for collaboration!*
+🔍 Reverse Engineer / Automation Developer / Full Stack Developer  
+⚙️ Specialized in system analysis, automation, and end-to-end development  
 
 ---
 
-**Contribution Activity**: You have 22 contributions in the last year. Keep up the great work! 🎉
+## 🧠 About Me
+
+I am a Reverse Engineer and Automation Developer with Full Stack development capabilities.
+
+I specialize in analyzing system behavior — from documented APIs to real-world execution — and transforming that understanding into automation tools and full-stack applications.
+
+My work focuses on:
+- Understanding how systems actually behave (beyond documentation)
+- Reconstructing workflows from real interactions
+- Building reliable automation and end-to-end solutions
+
+I bridge the gap between:
+- 📄 Documentation  
+- ⚙️ Real system behavior  
+- 💻 Production-ready applications  
+
+---
+
+## 🔬 What I Do
+
+- Analyze request/response flows and system behavior  
+- Inspect and debug client-side logic (JavaScript, validation flow)  
+- Reconstruct workflows from real usage patterns  
+- Build full-stack applications (frontend + backend)  
+- Develop automation tools and system integrations  
+
+---
+
+## ⚙️ Technical Skills
+
+### 🔐 Reverse Engineering & Analysis
+- Request/response analysis  
+- JavaScript debugging (minified / complex logic)  
+- Logic reconstruction from runtime behavior  
+- Token / validation flow inspection  
+
+---
+
+### 💻 Full Stack Development
+- **Frontend:** TypeScript, modern web tooling  
+- **Backend:** Node.js (API, automation, integration)  
+- **Architecture:** REST APIs, system integration  
+
+---
+
+### 🧱 Systems & DevOps
+- Docker  
+- CI/CD  
+- MySQL / MariaDB  
+
+---
+
+## 🚀 Selected Work
+
+### 🏛️ e-GP Procurement Automation
+Worked with Thailand's government procurement system (e-GP), which provides public APIs and documentation.
+
+Key contributions:
+- Analyzed real-world request/response behavior beyond documentation  
+- Identified inconsistencies between documented API and actual system flow  
+- Reconstructed workflows based on observed behavior  
+- Built automation processes and backend integrations  
+- Improved reliability of system usage through automation  
+
+---
+
+### 🤖 Discord Automation Bot
+- Built automation bot using Node.js  
+- Designed command-based and event-driven architecture  
+- Integrated webhook-based real-time workflows  
+
+---
+
+### 🌐 Portfolio Website
+- Developed using TypeScript  
+- Focused on maintainability and performance  
+
+---
+
+## 🎯 Focus Areas
+
+- Reverse Engineering (system behavior analysis)  
+- Automation & Bot Development  
+- Full Stack Development (end-to-end systems)  
+- System Integration (especially when documentation is incomplete)  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/h4rdl0ckl3z  
+
+---
+
+## 📌 Notes
+
+- Experienced in working with both documented and real-world system behavior  
+- Able to adapt to systems with incomplete or inconsistent documentation  
+- Focused on building practical, working solutions  
