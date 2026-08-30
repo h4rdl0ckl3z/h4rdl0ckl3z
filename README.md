@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/h4rdl0ckl3z">
-    <img src="https://komarev.com/ghpvc/?username=h4rdl0ckl3z&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=h4rdl0ckl3z&label=Profile%20Views&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/h4rdl0ckl3z?tab=followers">
     <img src="https://img.shields.io/github/followers/h4rdl0ckl3z?label=Followers&style=flat" alt="GitHub followers" />
@@ -16,17 +16,31 @@
   </a>
 </p>
 
+## 📊 GitHub Status
+
 <p align="center">
   <a href="https://github.com/h4rdl0ckl3z">
-    <img src="https://github-readme-stats.vercel.app/api?username=h4rdl0ckl3z&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4rdl0ckl3z&theme=github_dark" height="170" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/h4rdl0ckl3z">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdl0ckl3z&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4rdl0ckl3z&theme=github_dark" height="170" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4rdl0ckl3z&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=h4rdl0ckl3z&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4rdl0ckl3z&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/h4rdl0ckl3z">
+    <img src="https://github-profile-trophy.vercel.app/?username=h4rdl0ckl3z&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub profile trophies" />
+  </a>
 </p>
 
 ---
@@ -86,24 +100,6 @@ I work comfortably across the stack, connecting frontend applications, backend s
 
 ---
 
-## 📡 GitHub Activity
-
-Public GitHub activity is used as part of this profile's visual status section. GitHub's public Events API exposes recent public activity such as pushes, releases, pull requests, issues, forks, and stars. citeturn0search1turn0search3
-
-<p align="center">
-  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4rdl0ckl3z&hide_border=true&area=true" alt="GitHub activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/h4rdl0ckl3z">
-    <img src="https://github-profile-trophy.vercel.app/?username=h4rdl0ckl3z&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub profile trophies" />
-  </a>
-</p>
-
----
-
 ## 🚀 Selected Work
 
 ### 🏛️ e-GP Procurement Automation
@@ -118,8 +114,6 @@ Worked with Thailand's government procurement ecosystem and its public APIs/docu
 - Built automation and backend integrations
 - Improved reliability of repetitive system operations
 
----
-
 ### 🤖 Discord Automation
 
 Built Node.js-based automation bots for command-driven and event-driven workflows.
@@ -132,13 +126,9 @@ Built Node.js-based automation bots for command-driven and event-driven workflow
 - Automated workflows
 - External service integration
 
----
-
 ### 🌐 Web Applications & Platforms
 
 Build full-stack applications with an emphasis on maintainability, performance, and clean system boundaries.
-
-Typical architecture includes:
 
 ```text
 Frontend
@@ -173,14 +163,6 @@ Automation / Infrastructure
 I value understanding the complete execution path instead of treating individual APIs or components in isolation.
 
 The goal is not simply to make something work once, but to understand **why it works**, identify edge cases, and turn that knowledge into a solution that can be maintained and improved.
-
----
-
-## 📊 GitHub Profile Data
-
-The profile uses GitHub's public user data for basic account statistics and identity information. The GitHub REST API provides public user information such as repositories, followers, following, and profile metadata. citeturn0search0
-
-> **Live data:** Some decorative cards above are generated dynamically from the GitHub username `h4rdl0ckl3z`. They may depend on third-party GitHub README card services and can occasionally be unavailable due to rate limits or service outages.
 
 ---
 
