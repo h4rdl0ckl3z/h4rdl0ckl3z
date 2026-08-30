@@ -14,9 +14,7 @@
   <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
     <img src="https://img.shields.io/github/stars/h4rdl0ckl3z?label=Stars&style=flat" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
-    <img src="https://img.shields.io/github/repos/h4rdl0ckl3z?label=Repositories&style=flat" alt="GitHub repositories" />
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fh4rdl0ckl3z&query=%24.public_repos&label=Repositories&style=flat" alt="GitHub repositories" />
 </p>
 
 ## 📊 GitHub Status
@@ -48,7 +46,7 @@
   </a>
 </p>
 
-> **Activity graph:** The previous Vercel-hosted activity graph endpoint is currently unavailable, so the activity area uses direct GitHub navigation instead of displaying a broken image.
+> GitHub Activity is kept separate from the profile overview so the README remains lightweight and avoids relying on an unavailable activity-graph endpoint.
 
 ---
 
