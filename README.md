@@ -35,18 +35,12 @@
 ## 🔄 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
-    <img src="https://img.shields.io/badge/GitHub-Activity-181717?logo=github&logoColor=white" alt="GitHub activity" />
-  </a>
-  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://github.com/h4rdl0ckl3z?tab=stars">
-    <img src="https://img.shields.io/badge/GitHub-Starred%20Projects-181717?logo=github&logoColor=white" alt="Starred GitHub projects" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4rdl0ckl3z&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
-> GitHub Activity is kept separate from the profile overview so the README remains lightweight and avoids relying on an unavailable activity-graph endpoint.
+<p align="center">
+  <a href="https://github.com/h4rdl0ckl3z?tab=overview">View GitHub activity →</a>
+</p>
 
 ---
 
