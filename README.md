@@ -35,10 +35,12 @@
 ## 🔄 GitHub Activity
 
 <p align="center">
-  <img src="./assets/github-activity.svg" alt="GitHub activity over the last 30 days" width="900" />
+  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
+    <img src="https://github.com/h4rdl0ckl3z/h4rdl0ckl3z/raw/main/assets/github-activity.svg" alt="GitHub activity over the last 30 days" width="900" />
+  </a>
 </p>
 
-> Activity data is generated from the GitHub public events API by GitHub Actions and stored in this repository, so the README does not depend on an external activity-graph service.
+> Activity data is generated from the GitHub public events API by GitHub Actions and stored in this repository.
 
 ---
 
