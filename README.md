@@ -35,12 +35,10 @@
 ## 🔄 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4rdl0ckl3z&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="./assets/github-activity.svg" alt="GitHub activity over the last 30 days" width="900" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/h4rdl0ckl3z?tab=overview">View GitHub activity →</a>
-</p>
+> Activity data is generated from the GitHub public events API by GitHub Actions and stored in this repository, so the README does not depend on an external activity-graph service.
 
 ---
 
