@@ -14,6 +14,9 @@
   <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
     <img src="https://img.shields.io/github/stars/h4rdl0ckl3z?label=Stars&style=flat" alt="GitHub stars" />
   </a>
+  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
+    <img src="https://img.shields.io/github/repos/h4rdl0ckl3z?label=Repositories&style=flat" alt="GitHub repositories" />
+  </a>
 </p>
 
 ## 📊 GitHub Status
@@ -32,16 +35,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4rdl0ckl3z&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?logo=github&logoColor=white" alt="View GitHub repositories" />
+  </a>
+  <a href="https://github.com/h4rdl0ckl3z?tab=activity">
+    <img src="https://img.shields.io/badge/GitHub-Recent%20Activity-181717?logo=github&logoColor=white" alt="View recent GitHub activity" />
+  </a>
+  <a href="https://github.com/h4rdl0ckl3z?tab=stars">
+    <img src="https://img.shields.io/badge/GitHub-Starred%20Projects-181717?logo=github&logoColor=white" alt="View starred GitHub projects" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/h4rdl0ckl3z">
-    <img src="https://github-profile-trophy.vercel.app/?username=h4rdl0ckl3z&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub profile trophies" />
-  </a>
-</p>
+> **Note:** The previous activity-graph and profile-trophy images depended on Vercel-hosted services that are currently unavailable. They were replaced with GitHub/Shields-backed links so the profile README does not show broken images.
 
 ---
 
