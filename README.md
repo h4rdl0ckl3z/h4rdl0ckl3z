@@ -34,19 +34,21 @@
   <img src="https://streak-stats.demolab.com/?user=h4rdl0ckl3z&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+## 🔄 GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?logo=github&logoColor=white" alt="View GitHub repositories" />
+  <a href="https://github.com/h4rdl0ckl3z?tab=overview">
+    <img src="https://img.shields.io/badge/GitHub-Activity-181717?logo=github&logoColor=white" alt="GitHub activity" />
   </a>
-  <a href="https://github.com/h4rdl0ckl3z?tab=activity">
-    <img src="https://img.shields.io/badge/GitHub-Recent%20Activity-181717?logo=github&logoColor=white" alt="View recent GitHub activity" />
+  <a href="https://github.com/h4rdl0ckl3z?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
   <a href="https://github.com/h4rdl0ckl3z?tab=stars">
-    <img src="https://img.shields.io/badge/GitHub-Starred%20Projects-181717?logo=github&logoColor=white" alt="View starred GitHub projects" />
+    <img src="https://img.shields.io/badge/GitHub-Starred%20Projects-181717?logo=github&logoColor=white" alt="Starred GitHub projects" />
   </a>
 </p>
 
-> **Note:** The previous activity-graph and profile-trophy images depended on Vercel-hosted services that are currently unavailable. They were replaced with GitHub/Shields-backed links so the profile README does not show broken images.
+> **Activity graph:** The previous Vercel-hosted activity graph endpoint is currently unavailable, so the activity area uses direct GitHub navigation instead of displaying a broken image.
 
 ---
 
